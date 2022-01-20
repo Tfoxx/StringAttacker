@@ -1,7 +1,7 @@
 #create a class 
 class Stringattacker():
   def __init__(self):
-    self.string1 = "ahmet" #change this
+    self.string1 = "xxxx" #change this
     self.string2 = "5871" #change this
     self.string3 = "1234" #change this
     self.string4 = "1111" #change this
